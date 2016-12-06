@@ -1,0 +1,14 @@
+---
+title: "Exam Part 1"
+author: "Brooke Charbonneau"
+date: "December 6, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Part 1
+I conducted an incremental power analysis based on an *R2* of .20 and an *sr2* of .10. This power analysis revealed that an *N* of 75 would be necessary for a power of 85.
+
